@@ -1,0 +1,9 @@
+sphinx
+sphinxcontrib-fulltoc
+releases
+pytest
+pytest-cov
+pytest-mock
+
+-e .
+-e ./tests/apps/ramses_test

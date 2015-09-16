@@ -1,0 +1,8 @@
+sphinx
+sphinxcontrib-fulltoc
+releases
+pytest
+pytest-cov
+pytest-mock
+
+-e .
